@@ -29,3 +29,8 @@ Finally, it prints the predicted exchange rate for the next month.
 - Pandas library
 - Matplotlib library
 - Statsmodels library
+
+## Plot examples
+
+![exchange_rate_plot](https://github.com/vicxdev/exch_usdxars_analysis_pred/blob/master/exchange_rate_plot.png?raw=true)
+![average_exchange_rate_plot](https://github.com/vicxdev/exch_usdxars_analysis_pred/blob/master/average_exchange_rate_plot.png?raw=true)
