@@ -4,7 +4,7 @@ This script allows you to analyze the historical trends of the exchange rate bet
 
 ## Comments/Improvements
 
-- The output of the script and how the script should be behave could be improved by resolving the warnings that are displayed when running the script. 
+- The output of the script and how the script should behave could be improved by resolving the warnings that are displayed when running the script. 
 - The script could be improved by adding more data sources to increase the accuracy of the predictions.
 - The ARIMA model could be improved by tuning the parameters.
 - The script could be improved by adding more plots and statistics.
