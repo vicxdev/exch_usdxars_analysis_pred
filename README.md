@@ -32,5 +32,8 @@ Finally, it prints the predicted exchange rate for the next month.
 
 ## Plot examples
 
+### exchange_rate_plot.png
 ![exchange_rate_plot](https://github.com/vicxdev/exch_usdxars_analysis_pred/blob/master/exchange_rate_plot.png?raw=true)
+
+### average_exchange_rate_plot.png
 ![average_exchange_rate_plot](https://github.com/vicxdev/exch_usdxars_analysis_pred/blob/master/average_exchange_rate_plot.png?raw=true)
