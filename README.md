@@ -2,6 +2,13 @@
 
 This script allows you to analyze the historical trends of the exchange rate between the US Dollar and the Argentine Peso, visualize the fluctuations over time, and make predictions for future rates using an ARIMA model.
 
+## Comments/Improvements
+
+- The output of the script and how the script should be behave could be improved by resolving the warnings that are displayed when running the script. 
+- The script could be improved by adding more data sources to increase the accuracy of the predictions.
+- The ARIMA model could be improved by tuning the parameters.
+- The script could be improved by adding more plots and statistics.
+
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/vicxdev/exch_usdxars_analysis_pred.git`
